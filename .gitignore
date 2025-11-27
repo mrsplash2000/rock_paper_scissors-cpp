@@ -1,0 +1,9 @@
+*.[oa]
+*~
+bin/
+build/
+obj/
+*.cbp
+*.depend
+*.layout
+*.exe
