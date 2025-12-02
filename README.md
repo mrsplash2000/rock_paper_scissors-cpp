@@ -31,3 +31,7 @@ Below you will see the history of changes within each version.
 ### v1.0
 - Added The Salt Mechanism
 - Added Encryption Using The SHA256 Algorithm From The OpenSSL Library
+### v1.1
+- Changed salt generation function to work with ascii codes instead of using a long predefined charset
+- Added a function to check and make sure username and passwords have a length greater than or equal to 7
+- Added specific comments to organize and categorize the functions for better understanding and view
